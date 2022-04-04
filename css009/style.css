@@ -1,0 +1,17 @@
+*charset "utf-8";
+
+* {
+    width: 100px;
+}
+
+body {
+    background-image: linear-gradient(to top, rgb(118, 168, 192), rgb(150, 247, 218));
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
